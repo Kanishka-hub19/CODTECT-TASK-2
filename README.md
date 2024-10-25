@@ -1,6 +1,13 @@
+**Name**: Kanishka Pandey
+**Company**: CODTECH IT SOLUTIONS
+**ID**: CT6WDS1887
+**Domain**: Data Analytics
+**Durationn**: September to October 2024
+**Mentor**: Neela Santhosh Kumar
 
-**Overview of the project**
-**Project - Employee Demographics & Salary Analysis**
+## Overview of the Project
+
+##Project - Linear Regression Prediction on Employee Demographics & Salary Analysis##
 
 **Key Insights**:
 - **Demographics**: Most employees hold advanced degrees, with a balanced gender split. The majority fall in the 30–40 age range, showing career growth with age and experience.
